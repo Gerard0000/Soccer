@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOCCER.common", "SOCCER.common\SOCCER.common.csproj", "{036890DC-AA86-47A6-92D6-2EFAD8ABE46F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOCCER.web", "SOCCER.web\SOCCER.web.csproj", "{16C685AF-D376-4440-B9D8-4CEE78030E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOCCER.cross.android", "SOCCER.cross.android\SOCCER.cross.android.csproj", "{6260496A-8E6B-4298-8909-40EA65AAC047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036890DC-AA86-47A6-92D6-2EFAD8ABE46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036890DC-AA86-47A6-92D6-2EFAD8ABE46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036890DC-AA86-47A6-92D6-2EFAD8ABE46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036890DC-AA86-47A6-92D6-2EFAD8ABE46F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C685AF-D376-4440-B9D8-4CEE78030E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C685AF-D376-4440-B9D8-4CEE78030E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C685AF-D376-4440-B9D8-4CEE78030E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C685AF-D376-4440-B9D8-4CEE78030E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6260496A-8E6B-4298-8909-40EA65AAC047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6260496A-8E6B-4298-8909-40EA65AAC047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6260496A-8E6B-4298-8909-40EA65AAC047}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6260496A-8E6B-4298-8909-40EA65AAC047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6260496A-8E6B-4298-8909-40EA65AAC047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6260496A-8E6B-4298-8909-40EA65AAC047}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F3D6FD-4620-439C-AEAC-A59AE4F90038}
+	EndGlobalSection
+EndGlobal
